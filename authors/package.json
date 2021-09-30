@@ -1,0 +1,27 @@
+{
+  "name": "konexio-postgres-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amarsalah-31/konexio-postgres-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amarsalah-31/konexio-postgres-/issues"
+  },
+  "homepage": "https://github.com/Amarsalah-31/konexio-postgres-#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "pg": "^8.7.1",
+    "pool": "^0.4.1"
+  }
+}
